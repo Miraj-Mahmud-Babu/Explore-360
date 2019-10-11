@@ -1,0 +1,114 @@
+body,
+html {
+    height: 102%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.bg-img {
+    background-image: url("../image/coxbazar.jpg");
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.im-redius {
+    border-radius: 10px;
+}
+
+
+/* .my-card {
+    position: absolute;
+    left: 40%;
+    top: -10px;
+    border-radius: 50%;
+} */
+
+
+/* .container h1 {
+    color: rgb(40, 71, 99);
+    font-size: 50px;
+    padding-top: 4rem;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    font-weight: bolder;
+} */
+
+
+/* form {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 2rem;
+    align-content: center;
+    color: white;
+    orientation: auto;
+}
+
+#s2 {
+    /* background: rgb(15, 1, 1);
+    color: white;
+    margin-left: 20%;
+    margin-right: 20%; */
+
+
+/* 
+position: absolute;
+background-color: rgb(1,
+9,
+19);
+min-height: 60px;
+max-height: 230px;
+max-width: 55%;
+min-width: 70%;
+left: 0;
+right: 0;
+margin: 0 auto;
+top: 465px;
+border-radius: 15px;
+color: white;
+
+}
+form ul li {
+    list-style: none;
+    float: left;
+    margin: 0px 10px;
+}
+form ul li input {
+    width: 200px;
+    height: 30px;
+}
+form ul li select {
+    width: 200px;
+    height: 30px;
+}
+*/
+
+
+/* 
+form ul li {
+    list-style: none;
+    float: left;
+    margin: 0px 10px;
+}
+
+form ul li input {
+    width: 200px;
+    height: 30px;
+}
+
+form ul li select {
+    width: 200px;
+    height: 30px;
+} */

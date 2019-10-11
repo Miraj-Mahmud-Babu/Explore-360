@@ -1,0 +1,21 @@
+body,
+html {
+    height: 102%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+#signup {
+    background-image: url(../image/Slider/4.jpg);
+    width: 100%;
+    min-height: 100vh;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    caption-side: bottom;
+}
